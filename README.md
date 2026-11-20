@@ -11,10 +11,10 @@ A personal repository documenting my path from Python fundamentals to Machine Le
 | Stage | Topic | Status |
 |-------|-------|--------|
 | 1 | Python Fundamentals | 🟡 In progress |
-| 2 | Data Analysis (NumPy, Pandas, Matplotlib, Seaborn) | ⬜ Planned |
-| 3 | Machine Learning (Scikit-learn) | ⬜ Planned |
-| 4 | Deep Learning (TensorFlow / PyTorch) | ⬜ Planned |
-| 5 | Natural Language Processing | ⬜ Planned |
+| 2 | Data Analysis (NumPy, Pandas, Matplotlib, Seaborn) | ✅ Done |
+| 3 | Machine Learning (Scikit-learn) | ✅ Done|
+| 4 | Deep Learning (TensorFlow / PyTorch) | ✅ Done |
+| 5 | Natural Language Processing | ✅ Done |
 | 6 | End-to-end Projects & Deployment | ⬜ Planned |
 
 *(Update the status as you go: ⬜ Planned, 🟡 In progress, ✅ Done)*
@@ -178,8 +178,8 @@ This is a personal learning repo, but suggestions and corrections are welcome. F
 
 ## 📬 Connect
 
-- GitHub: [@your-username](https://github.com/Nitaigupta)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/nitai-gupta-96a6b3274/)
+- GitHub: [@NitaiGupta](https://github.com/Nitaigupta)
+- LinkedIn: [Nitai Gupta](https://www.linkedin.com/in/nitai-gupta-96a6b3274/)
 
 ---
 
